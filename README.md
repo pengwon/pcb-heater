@@ -1,6 +1,10 @@
 # PCB HEATER
 
-PCB加热器
+加入tailchat交流群👇
+
+[![tailchat](img/tailchat.png)](https://nightly.paw.msgbyte.com/invite/rC7Ubetb)
+
+## PCB加热器
 
 ![top](img/top.png)
 
@@ -12,7 +16,7 @@ PCB加热器
 - NTC × 7
 - 1.6mm铝基板
 
-测试图：
+## 测试图：
 
 ![测试图1，4A电流，30s](img/IMG20230613142741.jpeg)
 
